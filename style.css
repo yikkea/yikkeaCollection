@@ -23,6 +23,7 @@ button{
 
 h3{
   border: solid 6px lightblue;
+  
   border-radius: 39px;
   padding: 10px;
   background: white;
@@ -31,8 +32,9 @@ h3{
 }
 
 h1{
-  font-size: 80px;
+  font-size: 60px;
   border: solid 13px #FFF9C4;
   border-radius: 7px;
   background: lightgrey;
+  padding: 10px;
 }
