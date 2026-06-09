@@ -1,0 +1,39 @@
+body{
+  text-align: center;
+  background: #3B1F0E;
+}
+
+.buttons{
+  display:flex;
+  justify-content:center;
+  gap:10px;
+  flex-wrap:wrap;
+  border: solid 5px grey;
+  padding: 15px;
+  border-radius: 983px;
+  background: #FDDBB4;
+}
+
+button{
+  border:2px solid black;
+  border-radius:6px;
+  background:#CCE8F4;
+  padding:8px 12px;
+}
+
+h3{
+  border: solid 6px lightblue;
+  border-radius: 39px;
+  padding: 10px;
+  background: white;
+  outline: solid 3px black;
+  box-shadow: inset 0 0 0 3px black;
+}
+
+h1{
+  font-size: 80px;
+  border: solid 13px #FFF9C4;
+  border-radius: 7px;
+  padding-right: 29px;
+  background: lightgrey;
+}
